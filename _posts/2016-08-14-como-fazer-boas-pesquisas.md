@@ -18,24 +18,44 @@ Já perdi a conta de quantas vezes quis me aprofundar em algum assunto, mas não
 O primeiro passo para realizar uma boa pesquisa é saber utilizar bem sua ferramenta de busca, seja ela qual for. Por esse motivo, irei listar algumas ferramentas que utilizo para fazer minhas pesquisas.
 
 #### [Google Acadêmico (Google Schoolar)](https://scholar.google.com.br/)
+<figure>
+	<img src="{{site.base_url}}/assets/img/posts/como-fazer-boas-pesquisas/scholar.jpg">
+</figure>
 
 Muitas pessoas ainda desconhecem a existência do Google acadêmico, ferramenta extremamente útil para encontrar artigos relacionados com sua busca.
 
 #### [Google Livros (Google Books)](https://books.google.com.br/)
+<figure>
+	<img src="{{site.base_url}}/assets/img/posts/como-fazer-boas-pesquisas/books.jpg">
+</figure>
 
 Semelhante ao google acadêmico, o google livros irá encontrar livros relacionados com a sua busca.
 
 #### [Wikipedia!?](https://www.wikipedia.org/)
+<figure>
+	<img src="{{site.base_url}}/assets/img/posts/como-fazer-boas-pesquisas/wiki.jpg">
+</figure>
 
-Calma, calma, eu sei o que está pensando. Existe um certo preconceito com o wikipedia quando o assunto é pesquisa. O que muitas pessoas não sabem é que o wikipedia é uma execelente forma de obter referências. O wikipedia em si, não deve ser utilizado como fonte de um trabalho ou pesquisa, entretanto, é possível verificar todas as referências utilizadas para a construção do conteúdo ao final de cada página. Basta verificar cada uma delas, e essas sim podem ser usadas como referência em sua pesquisa ou trabalho.
+Calma, calma, eu sei o que está pensando. Existe um certo preconceito com o wikipedia quando o assunto é pesquisa. Entretanto, o wikipedia é uma ótima ferramenta para obter referências. O site em si, não deve ser utilizado como fonte de um trabalho ou pesquisa, entretanto, é possível verificar todas as referências utilizadas para a construção do conteúdo ao final de cada página. Basta verificar cada uma delas, e essas sim podem ser usadas como referência em sua pesquisa ou trabalho.
+
+
 
 #### [SCI-HUB](http://sci-hub.cc/)
+<figure>
+	<img src="{{site.base_url}}/assets/img/posts/como-fazer-boas-pesquisas/scihub.jpg">
+</figure>
 
 É possível que no meio do caminho você se depare com artigos científicos bloqueados. E até para isso a internet dá seu jeito, o SCI-HUB é uma ferramenta que disponibiliza diversos artigos científicos para download. Para utilizar o SCI-HUB é necessário fazer o download da extensão para o seu browser, após o download faça a instalação normalmente e será capaz de utilizar a ferramenta. Não vou dizer que você deva usá-la, pois estaria incentivando a pirataria, mas é bom saber que coisas assim existem...
 
 #### [Library Genesis](http://gen.lib.rus.ec/)
+<figure>
+	<img src="{{site.base_url}}/assets/img/posts/como-fazer-boas-pesquisas/librarygen.jpg">
+</figure>
 
 Mesma pegada do SCI-HUB, mas para livros. O site disponibiliza diversos livros de todos os tipos para download, e quando digo todos os tipos eu falo sério, é difícil não encontrar algum livro por lá. Não que eu tenha utilizado e que você deva utilizar, mas como já disse antes, ta aí né...
+
+
+
 
 ## A importância do ceticismo
 
