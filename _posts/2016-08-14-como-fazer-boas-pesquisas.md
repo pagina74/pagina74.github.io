@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Como fazer uma boa pesquisa na internet?"
+author_name: Tulio Coelho
+author_description: Estudante de Engenharia de Software, apaixonado por ciência, inspirado por Carl Sagan, e acredita que o conhecimento deve ser livre.
+author_gender: masc
+author_pic: tulioc.jpg
 date: 2016-08-14
 excerpt: "Dicas e práticas que irão te ajudar na hora de fazer uma pesquisa séria."
 tags: [Pesquisa, Internet, Boas Práticas]
@@ -31,7 +35,7 @@ Calma, calma, eu sei o que está pensando. Existe um certo preconceito com o wik
 
 #### [Library Genesis](http://gen.lib.rus.ec/)
 
-Mesma pegada do SciHub, mas para livros. O site disponibiliza diversos livros de todos os tipos para download, e quando digo todos os tipos eu falo sério, é difícil não encontrar algum livro por lá. Não que eu tenha utilizado e que você deva utilizar, mas como já disse antes, ta aí né...
+Mesma pegada do SCI-HUB, mas para livros. O site disponibiliza diversos livros de todos os tipos para download, e quando digo todos os tipos eu falo sério, é difícil não encontrar algum livro por lá. Não que eu tenha utilizado e que você deva utilizar, mas como já disse antes, ta aí né...
 
 ## A importância do ceticismo
 
@@ -39,7 +43,7 @@ Mesma pegada do SciHub, mas para livros. O site disponibiliza diversos livros de
 
 ## Questionamentos recomendados
 
-A Universidade de Toronto publicou uma excelente [matéria](http://writing.utoronto.ca/advice/reading-and-researching/research-using-internet) sobre pesquisas na internet com o objetivo de aconselhar a comunidade e seus estudantes. A [matéria](http://writing.utoronto.ca/advice/reading-and-researching/research-using-internet) recomenda diversas perguntas que devem ser feitas afim de minimizar falsas informações, selecionei algumas que considerei mais importantes. As perguntas são separadas em categorias, são elas :
+A Universidade de Toronto publicou uma excelente matéria sobre pesquisas na internet com o objetivo de aconselhar a comunidade e seus estudantes [(Research Using the Internet - Written by W. Brock MacDonald, Academic Skills Centre, and June Seel, UTM Library)](http://writing.utoronto.ca/advice/reading-and-researching/research-using-internet). A matéria recomenda diversas perguntas que devem ser feitas afim de minimizar falsas informações, selecionei algumas que considerei mais importantes. As perguntas são separadas em categorias, são elas :
 
  *Observação: Com o intuito de deixar o texto mais simples para leitura, irei utilizar apenas a palavra 'autor' para fazer referência a ambos os sexos.*
 
@@ -117,7 +121,7 @@ A Universidade de Toronto publicou uma excelente [matéria](http://writing.utoro
 
 
 
-Muita coisa não é mesmo? Entretanto, as chances de replicar informações falsas após responder essas perguntas irá diminuir muito, pode confiar. Agora, será que é preciso fazer isso com todos os sites? Não existe nenhum que podemos confiar? O próximo tópico fala exatamente sobre isso.
+Muita coisa não é mesmo? Entretanto, as chances de replicar informações falsas após responder essas perguntas irá diminuir muito, pode confiar. Mas será que é preciso fazer isso com todos os sites? Não existe nenhum que podemos confiar? O próximo tópico fala exatamente sobre isso.
 
 ## Fontes Renomadas
 
@@ -129,11 +133,13 @@ Existem alguns sites que já são conhecidos por serem confiáveis e por disponi
 * **[JBC](http://www.jbc.org/)**
 * **[World Health Organization](http://www.who.int/en/)**
 
+ *Saiba mais acessando o link : [(The most influential journals: Impact Factor and Eigenfactor)](http://www.pnas.org/content/106/17/6883.full).*
+
 A grande vantagem de utilizar sites como o da organização mundial da saúde, é que se por acaso você replicar alguma informação falsa, você não terá errado sozinho, a OMS terá sua parcela de culpa. Todos os sites listados acima tem uma preocupação extrema com o conteúdo que eles fornecem, portanto, não se preocupe tanto quando ver alguma publicação por lá, mas cuidado nunca é demais.
 
 ## Barreira Linguística
 
-Com certeza você irá se deparar com diversos artigos científicos e livros escritos em inglês, e caso você não tenha domínio da língua, terá uma certa dificuldade. Como contornar essa situação ? Ora, para ler não é necessário ser fluente em inglês, com algum tempo de prática e com o google tradutor do seu lado, em alguns meses é possível começar a entender melhor qualquer tipo de conteúdo em inglês.
+Com certeza você irá se deparar com diversos artigos científicos e livros escritos em inglês, e caso você não tenha domínio da língua, terá uma certa dificuldade. Como contornar essa situação ? Ora, para ler não é necessário ser fluente em inglês, com algum tempo de prática e com o google tradutor ao seu lado, em alguns meses é possível começar a entender melhor qualquer tipo de conteúdo em inglês.
 
 O mundo fala em inglês, um cientista hoje que publica seu artigo na sua língua nativa, está perdendo público atoa, portanto vale apena investir um pouco do seu tempo para aprender o básico, não desanime. Além disso, existe diversos sites brasileiros que também possuem um conteúdo confiável, e é sobre eles que vamos falar no próximo tópico.
 
@@ -147,7 +153,7 @@ Com o mesmo objetivo da Science Blogs Brasil, a Science Vlogs Brasil reune diver
 
 ## Saiba +
 
-O Departamento de Comunicação da Universidade da Califórnia, fez uma [pesquisa](http://jmq.sagepub.com/content/77/3/515) com 1041 pessoas nos EUA. O objetivo da [pesquisa](http://jmq.sagepub.com/content/77/3/515) era saber o nível de credibilidade que as pessoas dão para informações obtidas na internet, em comparação com outras mídias. As mídias escolhidas foram : Internet, Televisão, Rádio, Revistas e Jornal Impresso. A pesquisa também separou os tipos de informação em 4 tipos : Referências, Notícias, Comerciais e Entretenimento. Cada um dos tipos recebia uma pontuação de acordo com o tipo de mídia analisada. A pesquisa constatou que a internet é a segunda fonte de informações que as pessoas mais confiam, perdendo apenas para o Jornal Impresso.
+O Departamento de Comunicação da Universidade da Califórnia, fez uma pesquisa com 1041 pessoas nos EUA no ano de 2015 [(Perceptions of Internet Information Credibility)](http://jmq.sagepub.com/content/77/3/515). O objetivo da pesquisa era saber o nível de credibilidade que as pessoas dão para informações obtidas na internet, em comparação com outras mídias. As mídias escolhidas foram : Internet, Televisão, Rádio, Revistas e Jornal Impresso. A pesquisa também separou os tipos de informação em 4 tipos : Referências, Notícias, Comerciais e Entretenimento. Cada um dos tipos recebia uma pontuação de acordo com o tipo de mídia analisada. A pesquisa constatou que a internet é a segunda fonte de informações que as pessoas mais confiam, perdendo apenas para o Jornal Impresso.
 
 Em seguida, a pesquisa perguntou para as pessoas com que frequência elas verificavam se o conteúdo que elas estavam consumindo na internet era verídico. E o resultado foi preocupante, as respostas foram divididas em 5 níveis:
 
@@ -175,11 +181,16 @@ Em seguida, a pesquisa perguntou para as pessoas com que frequência elas verifi
 |Verificar a qualificação ou credenciais do autor sobre o assunto: | 2.10 (Raramente)   |
 |=====
 
-## Referências e Adicionais:
+## Referências Utilizadas
+1. **[Research Using the Internet - Written by W. Brock MacDonald, Academic Skills Centre, and June Seel, UTM Library](http://writing.utoronto.ca/advice/reading-and-researching/research-using-internet)**
 
-* **[The most influential journals: Impact Factor and Eigenfactor](http://www.pnas.org/content/106/17/6883.full)**
-* **[Research Using the Internet - Written by W. Brock MacDonald, Academic Skills Centre, and June Seel, UTM Library](http://writing.utoronto.ca/advice/reading-and-researching/research-using-internet)**
-* **[Perceptions of Internet Information Credibility - Department of Communication, University of California, Santa Barbara](http://jmq.sagepub.com/content/77/3/515)**
+2. **[The most influential journals: Impact Factor and Eigenfactor](http://www.pnas.org/content/106/17/6883.full)**
+
+3. **[Perceptions of Internet Information Credibility - Department of Communication, University of California, Santa Barbara](http://jmq.sagepub.com/content/77/3/515)**
+
+
+## Recomendações adicionais!
+
 * **[Critical Reading Towards Critical Writing - Written by Deborah Knott, New College Writing Centre](http://www.writing.utoronto.ca/advice/reading-and-researching/critical-reading)**
 * **[Canal do Slow - COMO FAZER UMA BOA PESQUISA](https://www.youtube.com/watch?v=nkcsbcg05lo)**
 * **[Falácias lógicas](http://papodehomem.com.br/falacias-logicas/)**
