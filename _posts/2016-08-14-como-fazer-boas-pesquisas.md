@@ -36,7 +36,7 @@ Semelhante ao google acadêmico, o google livros irá encontrar livros relaciona
 	<img src="{{site.base_url}}/assets/img/posts/como-fazer-boas-pesquisas/wiki.jpg">
 </figure>
 
-Calma, calma, eu sei o que está pensando. Existe um certo preconceito com o wikipedia quando o assunto é pesquisa. Entretanto, o wikipedia é uma ótima ferramenta para obter referências. O site em si, não deve ser utilizado como fonte de um trabalho ou pesquisa, entretanto, é possível verificar todas as referências utilizadas para a construção do conteúdo ao final de cada página. Basta verificar cada uma delas, e essas sim podem ser usadas como referência em sua pesquisa ou trabalho.
+Calma, calma, eu sei o que está pensando. Existe um certo preconceito com o wikipedia quando o assunto é pesquisa. Entretanto, o wikipedia é uma ótima ferramenta para obter referências. O site em si não deve ser utilizado como fonte de um trabalho ou pesquisa, mas é possível verificar todas as referências utilizadas para a construção do conteúdo ao final de cada página. Basta verificar cada uma delas, e essas sim podem ser usadas como referência em sua pesquisa ou trabalho.
 
 
 
@@ -46,6 +46,8 @@ Calma, calma, eu sei o que está pensando. Existe um certo preconceito com o wik
 </figure>
 
 É possível que no meio do caminho você se depare com artigos científicos bloqueados. E até para isso a internet dá seu jeito, o SCI-HUB é uma ferramenta que disponibiliza diversos artigos científicos para download. Para utilizar o SCI-HUB é necessário fazer o download da extensão para o seu browser, após o download faça a instalação normalmente e será capaz de utilizar a ferramenta. Não vou dizer que você deva usá-la, pois estaria incentivando a pirataria, mas é bom saber que coisas assim existem...
+
+*Saiba mais sobre o sci-hub acessando o link : [Who's downloading pirated papers? Everyone](http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone)*
 
 #### [Library Genesis](http://gen.lib.rus.ec/)
 <figure>
@@ -63,7 +65,7 @@ Mesma pegada do SCI-HUB, mas para livros. O site disponibiliza diversos livros d
 
 ## Questionamentos recomendados
 
-A Universidade de Toronto publicou uma excelente matéria sobre pesquisas na internet com o objetivo de aconselhar a comunidade e seus estudantes [(Research Using the Internet - Written by W. Brock MacDonald, Academic Skills Centre, and June Seel, UTM Library)](http://writing.utoronto.ca/advice/reading-and-researching/research-using-internet). A matéria recomenda diversas perguntas que devem ser feitas afim de minimizar falsas informações, selecionei algumas que considerei mais importantes. As perguntas são separadas em categorias, são elas :
+A Universidade de Toronto publicou uma excelente matéria sobre pesquisas na internet com o objetivo de aconselhar a comunidade e seus estudantes [(Research Using the Internet - Written by W. Brock MacDonald, Academic Skills Centre, and June Seel, UTM Library)](http://writing.utoronto.ca/advice/reading-and-researching/research-using-internet). A matéria recomenda diversas perguntas que devem ser feitas afim de minimizar falsas informações, selecionei algumas que considerei mais importantes. As perguntas são separadas em categorias, são elas:
 
  *Observação: Com o intuito de deixar o texto mais simples para leitura, irei utilizar apenas a palavra 'autor' para fazer referência a ambos os sexos.*
 
@@ -159,7 +161,7 @@ A grande vantagem de utilizar sites como o da organização mundial da saúde, �
 
 ## Barreira Linguística
 
-Com certeza você irá se deparar com diversos artigos científicos e livros escritos em inglês, e caso você não tenha domínio da língua, terá uma certa dificuldade. Como contornar essa situação ? Ora, para ler não é necessário ser fluente em inglês, com algum tempo de prática e com o google tradutor ao seu lado, em alguns meses é possível começar a entender melhor qualquer tipo de conteúdo em inglês.
+Com certeza você irá se deparar com diversos artigos científicos e livros escritos em inglês, e caso você não tenha domínio da língua, terá uma certa dificuldade. Como contornar essa situação? Ora, para ler não é necessário ser fluente em inglês, com algum tempo de prática e com o google tradutor ao seu lado, em alguns meses é possível começar a entender melhor qualquer tipo de conteúdo em inglês.
 
 O mundo fala em inglês, um cientista hoje que publica seu artigo na sua língua nativa, está perdendo público atoa, portanto vale apena investir um pouco do seu tempo para aprender o básico, não desanime. Além disso, existe diversos sites brasileiros que também possuem um conteúdo confiável, e é sobre eles que vamos falar no próximo tópico.
 
@@ -191,14 +193,14 @@ Em seguida, a pesquisa perguntou para as pessoas com que frequência elas verifi
 
 | Estratégia de verificação | Pontuação média |
 |:--------|:-------:|
-|Verificar se a informação é recente:   | 3.19 (De vez em quando)  |
-|Verificar se a informação é completa e compreensível:  | 2.98 (Raramente)  |
-|Considerar se as informações são factuais ou opiniões: | 2.91 (Raramente)   |
-|Checar em outras fontes para confirmar a informação: | 2.69 (Raramente)   |
-|Considerar as intenções e objetivos do autor: | 2.67 (Raramente)   |
-|Checar quem é o autor: | 2.38 (Raramente)   |
-|Checar se as informações do autor são disponibilizadas: | 2.20 (Raramente)   |
-|Verificar a qualificação ou credenciais do autor sobre o assunto: | 2.10 (Raramente)   |
+|Verificar se a informação é recente   | 3.19 (De vez em quando)  |
+|Verificar se a informação é completa e compreensível  | 2.98 (Raramente)  |
+|Considerar se as informações são factuais ou opiniões | 2.91 (Raramente)   |
+|Checar em outras fontes para confirmar a informação | 2.69 (Raramente)   |
+|Considerar as intenções e objetivos do autor | 2.67 (Raramente)   |
+|Checar quem é o autor | 2.38 (Raramente)   |
+|Checar se as informações do autor são disponibilizadas | 2.20 (Raramente)   |
+|Verificar a qualificação ou credenciais do autor sobre o assunto | 2.10 (Raramente)   |
 |=====
 
 ## Referências Utilizadas
@@ -211,6 +213,10 @@ Em seguida, a pesquisa perguntou para as pessoas com que frequência elas verifi
 
 ## Recomendações adicionais!
 
+* **[Who's downloading pirated papers? Everyone](http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone)**
+
 * **[Critical Reading Towards Critical Writing - Written by Deborah Knott, New College Writing Centre](http://www.writing.utoronto.ca/advice/reading-and-researching/critical-reading)**
+
 * **[Canal do Slow - COMO FAZER UMA BOA PESQUISA](https://www.youtube.com/watch?v=nkcsbcg05lo)**
+
 * **[Falácias lógicas](http://papodehomem.com.br/falacias-logicas/)**
