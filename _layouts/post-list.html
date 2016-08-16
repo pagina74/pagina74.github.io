@@ -26,8 +26,11 @@ layout: compress
                     {% for post in site.posts %}
                         {% if post.project == null %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li>
+                            <img src="{{site.base_url}}/assets/img/posts/como-fazer-boas-pesquisas/capa.jpg">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <p class= "post-list-info">{{ post.author_name}} -     {{ post.date | date: "%-d %B %Y" }}</p>
+
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Continuar leitura</a>
                         </li>

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Como fazer uma boa pesquisa na internet?"
+feature: /assets/img/posts/como-fazer-boas-pesquisas/capa.jpg
 author_name: Tulio Coelho
 author_description: Estudante de Engenharia de Software, apaixonado por ciência, inspirado por Carl Sagan, e acredita que o conhecimento deve ser livre.
 author_gender: masc
 author_pic: tulioc.jpg
 date: 2016-08-14
-excerpt: "Dicas e práticas que irão te ajudar na hora de fazer uma pesquisa séria."
+excerpt: "Ferramentas e recomendações que irão te ajudar na hora de fazer uma pesquisa séria."
 tags: [Pesquisa, Internet, Boas Práticas]
 comments: false
 ---
