@@ -61,7 +61,7 @@ Mesma pegada do SCI-HUB, mas para livros. O site disponibiliza diversos livros d
 
 ## A importância do ceticismo
 
-É importante comentar que é extremamente necessário que você ligue seu modo cético ao fazer uma pesquisa. Se existe alguma parte cética dentro de você, deixe-a florescer como nunca. Mas nada de ceticismo barato, estou falando de um ceticismo inteligente, questione-se sempre que ler alguma afirmação ou estatística duvidosa. Nunca assuma que você está lendo uma verdade absoluta, começar por aí já é um bom sinal. Alguns questionamentos são de suma importância para a construção de uma boa pesquisa, e são sobre eles que vamos conversar no próximo tópico.
+É necessário ativar seu modo cético ao fazer uma pesquisa. Se existe alguma parte cética dentro de você, deixe-a florescer como nunca. Mas nada de ceticismo barato, estou falando de um ceticismo inteligente, questione-se sempre que ler alguma afirmação ou estatística duvidosa. Nunca assuma que você está lendo uma verdade absoluta, começar por aí já é um bom sinal. Alguns questionamentos são de extrema importância para a construção de uma boa pesquisa, e são sobre esses questionamentos que vamos conversar no próximo tópico.
 
 ## Questionamentos recomendados
 
@@ -91,7 +91,7 @@ A Universidade de Toronto publicou uma excelente matéria sobre pesquisas na int
 
   É extremamente importante saber quem são os interessados no conteúdo que você está lendo. Quem se beneficia com esse tipo de informação? Os patrocinadores realmente existem? Já me deparei com diversos tipos de conteúdo com patrocinadores falsos...
 
-* **O autor é filiado a  alguma instituição conhecida?**
+* **O autor é filiado a alguma instituição conhecida?**
 
   O autor do texto é filiado a alguma universidade, instituição de pesquisa, etc?
 
@@ -163,7 +163,7 @@ A grande vantagem de utilizar sites como o da organização mundial da saúde, �
 
 Com certeza você irá se deparar com diversos artigos científicos e livros escritos em inglês, e caso você não tenha domínio da língua, terá uma certa dificuldade. Como contornar essa situação? Ora, para ler não é necessário ser fluente em inglês, com algum tempo de prática e com o google tradutor ao seu lado, em alguns meses é possível começar a entender melhor qualquer tipo de conteúdo em inglês.
 
-O mundo fala em inglês, um cientista hoje que publica seu artigo na sua língua nativa, está perdendo público atoa, portanto vale apena investir um pouco do seu tempo para aprender o básico, não desanime. Além disso, existe diversos sites brasileiros que também possuem um conteúdo confiável, e é sobre eles que vamos falar no próximo tópico.
+O mundo fala em inglês, um cientista hoje que publica seu artigo na sua língua nativa, está perdendo público atoa, portanto vale apena investir um pouco do seu tempo para aprender o básico, não desanime. Além disso, existem diversos sites brasileiros que também possuem um conteúdo confiável, e é sobre eles que vamos falar no próximo tópico.
 
 ## [Science Blogs Brasil](http://scienceblogs.com.br/)
 
