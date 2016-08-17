@@ -5,6 +5,28 @@
 <script src="{{ site.url }}/assets/js/jquery.magnific-popup.min.js"></script>
 <script src="{{ site.url }}/assets/js/jquery.fitvid.min.js"></script>
 <script src="{{ site.url }}/assets/js/scripts.js"></script>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '634963536679278',
+      xfbml      : true,
+      version    : 'v2.7'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+
+
+
 {% if site.google.analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -16,7 +38,4 @@
   ga('require', 'linkid', 'linkid.js');
   ga('send', 'pageview');
 </script>
-{% endif %}
-{% if page.comments != false %}
-    {% include disqus_comments.html %}
 {% endif %}
