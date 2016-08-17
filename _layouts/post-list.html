@@ -32,6 +32,12 @@ layout: compress
                             <p class= "post-list-info">{{ post.author_name}} -     {{ post.date | date: "%-d %B %Y" }}</p>
 
                             <p>{{ post.excerpt }}</p>
+                            <div
+                              class="fb-like"
+                              data-share="true"
+                              data-width="450"
+                              data-show-faces="true">
+                            </div>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Continuar leitura</a>
                         </li>
                     </ul>
