@@ -35,6 +35,15 @@ layout: compress
                 </div>
                 {{ content }}
 
+
+                <div class=author>
+                  {% include author.html %}
+                </div>
+
+                <div class="entry-meta">
+                {% include meta.html %}
+                </div>
+
                 <div
                   class="fb-like"
                   data-share="true"
@@ -45,13 +54,6 @@ layout: compress
 
                 <div class="fb-comments" data-href="http://pagina74.github.io/" data-numposts="5" data-width="100%"></div>
 
-                <div class=author>
-                  {% include author.html %}
-                </div>
-
-                <div class="entry-meta">
-                {% include meta.html %}
-                </div>
 
             </div>
         </div>
