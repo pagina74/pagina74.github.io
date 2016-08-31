@@ -197,44 +197,44 @@ Para finalizar minha pesquisa sobre a depressão, resolvi procurar alguns dados 
 **Proporção de pessoas de 18 anos ou mais de idade diagnosticadas com depressão por profissional de saúde mental.**
 
 |----------|:-----:|----|----|----|----|
-| Brasil(Total) |7.6%| Norte: |3.1%| Sul: |12.6%|
-|Áreas Urbanas|8.0%| Nordeste: |5.0%| Centro-Oeste: |7.2%|
-|Áreas Rurais|5.6%| Sudeste: |8.4%|
+|**Brasil(Total):**|7.6%|**Norte:**|3.1%|**Sul:**|12.6%|
+|**Áreas Urbanas:**|8.0%|**Nordeste:**|5.0%|**Centro-Oeste:**|7.2%|
+|**Áreas Rurais:**|5.6%|**Sudeste:**|8.4%|
 
 **Proporção de pessoas de 18 anos ou mais de idade que referem diagnóstico de depressão e usam medicamentos para depressão.**
 
 |----------|:-----:|----|----|----|----|
-| Brasil(Total) |52%| Norte: |41.5%| Sul: |52.1%|
-|Áreas Urbanas|52.3%| Nordeste: |47.9%| Centro-Oeste: |46%|
-|Áreas Rurais|49.3%| Sudeste: |55%|
+|**Brasil(Total):**|52%|**Norte:**|41.5%|**Sul:**|52.1%|
+|**Áreas Urbanas:**|52.3%|**Nordeste:**|47.9%|**Centro-Oeste:**|46%|
+|**Áreas Rurais:**|49.3%|**Sudeste:**|55%|
 
 **Proporção de pessoas de 18 anos ou mais de idade que referem diagnóstico de depressão e fazem psicoterapia.**
 
 |----------|:-----:|----|----|----|----|
-| Brasil(Total) |16.4%| Norte: |14.9%| Sul: |12.5%|
-|Áreas Urbanas|17.3%| Nordeste: |18.4%| Centro-Oeste: |15.3%|
-|Áreas Rurais|10.1%| Sudeste: |18%|
+|**Brasil(Total):**|16.4%|**Norte:**|14.9%|**Sul:**|12.5%|
+|**Áreas Urbanas:**|17.3%|**Nordeste:**|18.4%|**Centro-Oeste:**|15.3%|
+|**Áreas Rurais:**|10.1%|**Sudeste:**|18%|
 
 **Proporção de pessoas de 18 anos ou mais de idade que referem diagnóstico de depressão e receberam assistência médica para depressão nos últimos 12 meses.**
 
 |----------|:-----:|----|----|----|----|
-| Brasil(Total) |46.4%| Norte: |40.2%| Sul: |47.9%|
-|Áreas Urbanas|46.7%| Nordeste: |48.6%| Centro-Oeste: |43.2%|
-|Áreas Rurais|44.2%| Sudeste: |45.7%|
+|**Brasil(Total):**|46.4%|**Norte:**|40.2%|**Sul:**|47.9%|
+|**Áreas Urbanas:**|46.7%|**Nordeste:**|48.6%|**Centro-Oeste:**|43.2%|
+|**Áreas Rurais:**|44.2%|**Sudeste:**|45.7%|
 
 **Total de pessoas de 18 anos ou mais de idade que referem diagnóstico de depressão, foram encaminhadas para alguma consulta com profissional especialista de saúde mental, e conseguiram todas as consultas.**
 
 |----------|:-----:|----|----|----|----|
-| Brasil(Total) |78.5%| Norte: |78.2%| Sul: |80.2%|
-|Áreas Urbanas|79.2%| Nordeste: |75.3%| Centro-Oeste: |85.9%|
-|Áreas Rurais|71%| Sudeste: |77.9%|
+|**Brasil(Total):**|78.5%|**Norte:**|78.2%|**Sul:**|80.2%|
+|**Áreas Urbanas:**|79.2%|**Nordeste:**|75.3%|**Centro-Oeste:**|85.9%|
+|**Áreas Rurais:**|71%|**Sudeste:**|77.9%|
 
 **Proporção de pessoas de 18 anos ou mais de idade que referem diagnóstico de depressão e possuem grau intenso ou muito intenso de limitações nas atividades habituais devido à depressão**
 
 |----------|:-----:|----|----|----|----|
-| Brasil(Total) |11.8%| Norte: |11.8%| Sul: |10.7%|
-|Áreas Urbanas|12%| Nordeste: |14.5%| Centro-Oeste: |13.1%|
-|Áreas Rurais|10.5%| Sudeste: |19.7%|
+|**Brasil(Total):**|11.8%|**Norte:**|11.8%|**Sul:**|10.7%|
+|**Áreas Urbanas:**|12%|**Nordeste:**|14.5%|**Centro-Oeste:**|13.1%|
+|**Áreas Rurais:**|10.5%|**Sudeste:**|19.7%|
 
 ## Referências Utilizadas
 
