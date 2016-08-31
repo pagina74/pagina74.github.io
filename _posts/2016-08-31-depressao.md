@@ -7,7 +7,7 @@ author_description: Estudante de Engenharia de Software, apaixonado por ciência
 author_gender: masc
 author_pic: tulioc.jpg
 date: 2016-08-31
-excerpt: "Saiba mais sobre a doença"
+excerpt: "Conheça mais sobre a doença que atinge aproximadamente 350 milhões de pessoas mundialmente."
 tags: [Depressão, Doenças, Saúde]
 comments: false
 ---
