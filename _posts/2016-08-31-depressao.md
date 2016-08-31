@@ -33,7 +33,7 @@ Durante a vida de uma pessoa é comum que ela passe por momentos ruins e que apr
 * **Sensação de falta de esperança e pessimismo.**
 * **Sentimento de culpa, inutilidade e desamparo.**
 * **Falta de interesse e prazer em hobbies e atividades comuns.**
-* **Indisposição física, sensação de lentidão.**
+* **Indisposição física e sensação de lentidão.**
 * **Dificuldade em se concentrar, se lembrar de acontecimentos e tomar decisões.**
 * **Dificuldade em dormir, sair da cama ou dormir demais.**
 * **Mudanças de peso e apetite.**
@@ -92,7 +92,7 @@ Nem todas as pessoas que sofrem de depressão apresentam os mesmos sintomas. A f
 
 ## Tipos de tratamento
 
-Existem diversos tipos de tratamento com resultados incríveis. Decidi apenas listar os tipos de tratamento, não vou entrar em detalhes de como os tratamentos funcionam. O propósito da matéria é divulgar informações válidas sobre a doença. E não sou a pessoa mais indicada para dizer com detalhes como esses tratamentos funcionam. Deixarei links ao final da matéria para mais detalhes sobre cada um dos tratamentos citados [**[3]**](#Ref3).
+Existem diversos tipos de tratamento com resultados incríveis. Decidi apenas listar os tipos de tratamento, não vou entrar em detalhes de como os tratamentos funcionam. O propósito da matéria é divulgar informações válidas sobre a doença. E não sou a pessoa mais indicada para dizer com detalhes como esses tratamentos funcionam. [**[3]**](#Ref3).
 
 * **Psicoterapia**
   * Terapia cognitiva comportamental.
@@ -249,3 +249,8 @@ Para finalizar minha pesquisa sobre a depressão, resolvi procurar alguns dados 
 4. <a name="Ref4"></a>**[Pesquisa Nacional de Saúde 2013 -IBGE](ftp://ftp.ibge.gov.br/PNS/2013/pns2013.pdf)** *Os dados sobre depressão no Brasil se encontram na página 50.*
 
 ## Saiba mais
+
+* [Estudo sobre a relação de estresse e depressão em estudantes de medicina.](http://www.ncbi.nlm.nih.gov/pubmed/15910436)
+* [Estudo sobre os resultados de antidepressivos e depressão severa.](http://jama.jamanetwork.com/article.aspx?articleid=185157)
+* [Um estudo prospectivo de preditores de sintomas depressivos na polícia.](http://www.ncbi.nlm.nih.gov/pubmed/20044144)
+* [Estudo sobre depressão entre adolescentes dos EUA](http://www.nimh.nih.gov/health/statistics/prevalence/major-depression-with-severe-impairment-among-adolescents.shtml)
