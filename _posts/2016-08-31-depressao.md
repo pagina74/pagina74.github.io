@@ -88,7 +88,7 @@ Nem todas as pessoas que sofrem de depressão apresentam os mesmos sintomas. A f
 
 * **Depressão em idosos**
 
-  Sofrer com depressão por um longo período de tempo não é muito comum em idosos. A depressão em idosos é considerada a mais difícil de ser diagnosticada pela dificuldade de reconhecer os sintomas, que se manifestam de formas diferentes e são menos óbvios. A doença pode ter sido causa por diversos problemas de saúde também, ou medicamentos que contribuem de alguma forma com os sintomas. Idosos que já sofreram depressão durante a vida estão mais suscetíveis a sofrerem novamente com a doença do que idosos que não passaram por essa experiência. [**[3]**](#Ref3)
+  Sofrer com depressão por um longo período de tempo não é muito comum em idosos. A depressão em idosos é considerada a mais difícil de ser diagnosticada pela dificuldade de reconhecer os sintomas, que se manifestam de formas diferentes e são menos óbvios. A doença pode ter sido causada por diversos problemas de saúde também, ou medicamentos que contribuem de alguma forma com os sintomas. Idosos que já sofreram depressão durante a vida estão mais suscetíveis a sofrerem novamente com a doença do que idosos que não passaram por essa experiência. [**[3]**](#Ref3)
 
 ## Tipos de tratamento
 
@@ -179,8 +179,6 @@ A organização mundial da saúde disponibilizou em um artigo, alguns fatos inte
 * **Os sintomas da depressão podem ser reconhecidos em qualquer cultura.** [**[1]**](#Ref1)
 
 * **Pessoas que já sofreram algum tipo de violência são mais suscetíveis a desenvolver a doença.** [**[1]**](#Ref1)
-
-* **Pessoas com algum tipo de desvantagem social, como pouco acesso à educação por exemplo, são mais suscetíveis a desenvolver a doença.** [**[1]**](#Ref1)
 
 * **Pessoas com algum tipo de desvantagem social, como pouco acesso à educação por exemplo, são mais suscetíveis a desenvolver a doença.** [**[1]**](#Ref1)
 
